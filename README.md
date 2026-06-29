@@ -3,7 +3,7 @@
 A real-time stock portfolio tracker built with React, Tailwind CSS, and Alpha Vantage API.
 
 ## 🔗 Live Demo
-[View Live →](https://your-vercel-link.vercel.app)
+[View Live →](https://stock-portfolio-tracker-rosy-psi.vercel.app)
 
 ## ✨ Features
 - Real-time stock prices via Alpha Vantage API
